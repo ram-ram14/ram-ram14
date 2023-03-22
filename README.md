@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ram-ram14.
 - 👀 I’m interested in F1.
-- 🌱 I’m currently learning HTML, CSS & javascript through General Assembly.
+- 🌱 I’m currently learning HTML, CSS & Javascript through General Assembly.
 - 💞️ I’m looking to cget better at programming.
 - 📫 How to reach me ...
 
