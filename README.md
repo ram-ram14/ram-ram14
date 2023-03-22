@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ram-ram14
-- 👀 I’m interested in F1
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on any pro bono work once I get better at programming
+- 👋 Hi, I’m @ram-ram14.
+- 👀 I’m interested in F1.
+- 🌱 I’m currently learning HTML, CSS & javascript through General Assembly.
+- 💞️ I’m looking to cget better at programming.
 - 📫 How to reach me ...
 
 <!---
