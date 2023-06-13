@@ -2,7 +2,7 @@
 - 👀 I’m interested in F1.
 - 🌱 I’m currently learning HTML, CSS & Javascript through General Assembly.
 - 💞️ I’m looking to get better at programming.
-- 📫 How to reach me ...
+- 📫 Feel free to message me on LinkedIn. 
 
 <!---
 ram-ram14/ram-ram14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
